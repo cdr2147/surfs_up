@@ -45,6 +45,7 @@ Stations with the highest elevation:
 Stations reported most weather data in June and December:
 
 ![june stations](https://user-images.githubusercontent.com/99205688/164776885-0a972d28-ce5b-437a-a7fb-a8acc24960ef.PNG)
+
 ![dec station](https://user-images.githubusercontent.com/99205688/164776896-dd5917f0-70d7-49ac-b1df-54e3fb4ee781.PNG)
 
 After running the query, it can be seen that the stations with the highest elevations (Upper Wahiawa and Manoa Lyon Arbo) represent the lowest and 5th lowest numbers of weather reports in June and December. This is helpful to know that the station with the highest elevation (Upper Wahiawa) is not greatly skewing the data. However, it can be taken into account that the weather data points reported by Manoa Lyon Arbo is almost the same as many stations with much lower elevation and it may be worthwhile to dive deeper into the reported data from Manoa Lyon Arbo to see if those numbers contribute more towards the fluctuations seen in December.
